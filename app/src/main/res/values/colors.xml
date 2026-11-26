@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green_primary">#00FF88</color>
+    <color name="green_dark">#00C878</color>
+
+    <color name="background_dark">#030805</color>
+    <color name="surface_dark">#07110B</color>
+    <color name="surface_variant_dark">#102019</color>
+
+    <color name="text_primary">#E8FFF3</color>
+    <color name="text_secondary">#9BB8A8</color>
+
+    <color name="outline_green">#315443</color>
+
+    <color name="error_red">#FF5252</color>
+
+</resources>
